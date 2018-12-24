@@ -1,5 +1,6 @@
 # f18-hmwk6-team18
 ## PtreeFS
+/kernel/fs/ptreefs
 ### Usage
 #### Compile and Install
 * `cd kernel`
